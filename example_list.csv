@@ -1,0 +1,11 @@
+image, mask, label
+id_3_img.nii.gz,id_3_mask.nii.gz,un-ruptured
+id_4_img.nii.gz,id_4_mask.nii.gz,ruptured
+id_7_img.nii.gz,id_7_mask.nii.gz,ruptured
+id_9_img.nii.gz,id_9_mask.nii.gz,un-ruptured
+id_10_img.nii.gz,id_10_mask.nii.gz,un-ruptured
+id_11_img.nii.gz,id_11_mask.nii.gz,un-ruptured
+id_12_img.nii.gz,id_12_mask.nii.gz,un-ruptured
+id_14_img.nii.gz,id_14_mask.nii.gz,un-ruptured
+id_15_img.nii.gz,id_15_mask.nii.gz,un-ruptured
+id_16_img.nii.gz,id_16_mask.nii.gz,ruptured
